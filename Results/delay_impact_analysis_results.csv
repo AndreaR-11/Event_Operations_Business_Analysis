@@ -1,0 +1,3 @@
+event_status,total_events,total_registrations,total_attendees,attendance_rate_pct,average_feedback,total_revenue,total_cost,net_contribution
+"Not Delayed",44,2134,1779,83.36,4.56,126550,57800,68750
+Delayed,6,226,153,67.70,4.02,16200,10700,5500

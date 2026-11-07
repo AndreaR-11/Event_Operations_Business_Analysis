@@ -1,0 +1,3 @@
+delivery_format,total_events,total_registrations,total_attendees,attendance_rate_pct,total_revenue,total_cost,net_contribution,average_feedback,delayed_events,delay_rate_pct
+Online,28,1478,1237,83.69,75150,25850,49300,4.59,1,3.57
+In-person,22,882,695,78.80,67600,42650,24950,4.36,5,22.73

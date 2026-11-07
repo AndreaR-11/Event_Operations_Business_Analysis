@@ -1,0 +1,51 @@
+event_id,event_date,corporate_client,client_industry,workshop_topic,delivery_format,registrations,attendees,delivery_cost_usd,revenue_usd,feedback_rating_5,delayed_flag
+E001,08/01/2026,Northstar Finance,Financial Services,Excel for Business,In-person,42,34,1800,3200,4.5,0
+E002,15/01/2026,Vertex Systems,Technology,AI for Operations,Online,55,46,900,2600,4.6,0
+E003,22/01/2026,Cedar Health,Healthcare,Data Literacy,In-person,38,25,2100,3000,4,1
+E004,29/01/2026,Northstar Finance,Financial Services,Project Planning,Online,48,41,850,2400,4.7,0
+E005,05/02/2026,Harbor Retail,Retail,Excel for Business,In-person,50,39,1950,3500,4.3,0
+E006,12/02/2026,Vertex Systems,Technology,SQL Basics,Online,60,51,950,2800,4.8,0
+E007,19/02/2026,Cedar Health,Healthcare,Project Planning,Online,45,30,800,2200,4.1,1
+E008,26/02/2026,Summit Logistics,Logistics,Data Literacy,In-person,36,29,1750,2900,4.4,0
+E009,05/03/2026,Harbor Retail,Retail,AI for Operations,Online,58,43,1000,2700,4.2,0
+E010,12/03/2026,Summit Logistics,Logistics,Excel for Business,In-person,40,33,1850,3100,4.6,0
+E011,19/03/2026,Northstar Finance,Financial Services,SQL Basics,Online,52,45,900,2750,4.8,0
+E012,26/03/2026,Vertex Systems,Technology,Project Planning,In-person,44,37,2050,3300,4.5,0
+E013,02/04/2026,Cedar Health,Healthcare,Excel for Business,Online,47,36,850,2300,4.2,0
+E014,09/04/2026,Harbor Retail,Retail,Data Literacy,In-person,35,26,1700,2600,4.1,1
+E015,16/04/2026,Summit Logistics,Logistics,AI for Operations,Online,62,53,1000,3000,4.7,0
+E016,23/04/2026,Northstar Finance,Financial Services,Data Literacy,In-person,39,31,1900,3150,4.4,0
+E017,30/04/2026,Vertex Systems,Technology,Excel for Business,Online,57,50,900,2900,4.8,0
+E018,07/05/2026,Cedar Health,Healthcare,SQL Basics,In-person,33,22,2000,2800,3.9,1
+E019,14/05/2026,Harbor Retail,Retail,Project Planning,Online,46,38,850,2450,4.5,0
+E020,21/05/2026,Summit Logistics,Logistics,Data Literacy,Online,49,42,900,2550,4.6,0
+E021,28/05/2026,Northstar Finance,Financial Services,AI for Operations,In-person,41,35,1950,3400,4.7,0
+E022,04/06/2026,Vertex Systems,Technology,SQL Basics,Online,64,56,1000,3200,4.9,0
+E023,11/06/2026,Cedar Health,Healthcare,AI for Operations,In-person,37,28,1850,2750,4.2,0
+E024,18/06/2026,Harbor Retail,Retail,Excel for Business,Online,53,44,900,2650,4.5,0
+E025,25/06/2026,Summit Logistics,Logistics,Project Planning,In-person,34,27,1650,2550,4.4,0
+E026,02/07/2026,Northstar Finance,Financial Services,SQL Basics,In-person,43,36,2050,3350,4.6,0
+E027,09/07/2026,Vertex Systems,Technology,Data Literacy,Online,59,52,950,2950,4.8,0
+E028,16/07/2026,Cedar Health,Healthcare,Project Planning,In-person,40,26,2150,2900,4,1
+E029,23/07/2026,Harbor Retail,Retail,AI for Operations,Online,61,47,1050,2850,4.3,0
+E030,30/07/2026,Summit Logistics,Logistics,Excel for Business,Online,45,38,900,2500,4.6,0
+E031,06/08/2026,Northstar Finance,Financial Services,Data Literacy,Online,54,47,950,2800,4.7,0
+E032,13/08/2026,Vertex Systems,Technology,AI for Operations,In-person,46,39,2200,3600,4.6,0
+E033,20/08/2026,Cedar Health,Healthcare,Excel for Business,In-person,35,24,1950,2700,4,1
+E034,27/08/2026,Harbor Retail,Retail,SQL Basics,Online,56,48,950,2800,4.7,0
+E035,03/09/2026,Summit Logistics,Logistics,AI for Operations,In-person,39,32,1850,3050,4.5,0
+E036,10/09/2026,Northstar Finance,Financial Services,Project Planning,Online,51,44,900,2700,4.8,0
+E037,17/09/2026,Vertex Systems,Technology,Excel for Business,In-person,48,41,2150,3500,4.7,0
+E038,24/09/2026,Cedar Health,Healthcare,Data Literacy,Online,42,34,850,2250,4.3,0
+E039,01/10/2026,Harbor Retail,Retail,Project Planning,In-person,37,29,1800,2750,4.2,0
+E040,08/10/2026,Summit Logistics,Logistics,SQL Basics,Online,58,50,950,2900,4.8,0
+E041,15/10/2026,Northstar Finance,Financial Services,Excel for Business,Online,56,49,950,3000,4.8,0
+E042,22/10/2026,Vertex Systems,Technology,Project Planning,Online,50,44,900,2750,4.7,0
+E043,29/10/2026,Cedar Health,Healthcare,AI for Operations,Online,45,36,950,2400,4.3,0
+E044,05/11/2026,Harbor Retail,Retail,Data Literacy,Online,43,35,900,2450,4.4,0
+E045,12/11/2026,Summit Logistics,Logistics,Excel for Business,In-person,41,34,1900,3200,4.6,0
+E046,19/11/2026,Northstar Finance,Financial Services,SQL Basics,Online,58,51,1000,3100,4.9,0
+E047,26/11/2026,Vertex Systems,Technology,Data Literacy,In-person,40,34,2000,3150,4.5,0
+E048,03/12/2026,Cedar Health,Healthcare,Project Planning,Online,49,39,900,2400,4.4,0
+E049,10/12/2026,Harbor Retail,Retail,AI for Operations,In-person,44,34,2050,3150,4.3,0
+E050,17/12/2026,Summit Logistics,Logistics,Data Literacy,Online,55,48,950,2800,4.7,0

@@ -1,0 +1,6 @@
+client_industry,total_events,total_registrations,total_attendees,attendance_rate_pct,total_revenue,total_cost,net_contribution,average_feedback,delayed_events,delay_rate_pct
+Technology,10,523,450,86.04,30750,14000,16750,4.69,0,0.00
+"Financial Services",10,484,413,85.33,29850,13250,16600,4.69,0,0.00
+Logistics,10,459,386,84.10,28550,13700,14850,4.59,0,0.00
+Retail,10,483,383,79.30,27900,13150,14750,4.35,1,10.00
+Healthcare,10,411,300,72.99,25700,14400,11300,4.14,5,50.00
