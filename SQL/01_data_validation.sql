@@ -1,9 +1,3 @@
--- PROJECT: Event Operations & Business Performance Analysis
--- DATABASE: event_operations_analysis
--- TOOL: MySQL
--- PURPOSE: Validate imported event data
--- DATA: Synthetic portfolio dataset (50 events)
-
 USE event_operations_analysis;
 
 
